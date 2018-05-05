@@ -1,13 +1,16 @@
-# Project Name
+# Highlight Microservice - Chompy
 
-> Project description
+> This service constructs 8 'key phrases' by processing all reviews from a restaurant. It finds one sentence that matches each 'key phrase' and if possible, a photo that matches as well.
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/codenamesgroup/jornelas-proxy
+  - https://github.com/codenamesgroup/search-navbar-service
+  - https://github.com/codenamesgroup/Maps-and-Image-Carousel-Service
+  - https://github.com/codenamesgroup/Reviews-Service
+  - https://github.com/codenamesgroup/Bottom-right-sidebar
+  - https://github.com/codenamesgroup/Tips
+  - https://github.com/codenamesgroup/Title-Bar-Service
 
 ## Table of Contents
 

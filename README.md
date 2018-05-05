@@ -1,6 +1,8 @@
 # Highlight Microservice - Chompy
 
-> This service constructs 8 'key phrases'\n by processing all reviews from a restaurant. It finds one sentence that matches each 'key phrase' and if possible, a photo that matches as well.
+> This service constructs 8 'key phrases' by processing all reviews from a restaurant. It finds one sentence that matches each 'key phrase' and if possible, a photo that matches as well.
+
+![alt text](https://i.imgur.com/lfj8OpM.png)
 
 ## Related Projects
 
@@ -14,13 +16,9 @@
 
 ## Table of Contents
 
-1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
 
-## Usage
-
-> Some usage instructions
 
 ## Requirements
 
